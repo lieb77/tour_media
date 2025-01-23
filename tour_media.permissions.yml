@@ -1,0 +1,3 @@
+administer tours:
+  title: 'Administer tours'
+  restrict access: true

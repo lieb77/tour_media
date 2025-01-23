@@ -1,0 +1,11 @@
+tour_media.admin:
+  title: 'Tour admin'
+  description: 'Tour media administration'
+  parent: system.admin_content
+  route_name: tour_media.tour_media
+  
+tour_media.import:
+  title: 'Import images'
+  description: 'Add media to tours'
+  parent: tour_media.admin
+  route_name: tour_media.tour_media

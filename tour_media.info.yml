@@ -1,0 +1,7 @@
+name: 'Tour Media'
+type: module
+description: 'Mange media associated with a bike tour'
+package: Custom
+core_version_requirement: ^10 || ^11
+dependencies:
+  - drupal:media

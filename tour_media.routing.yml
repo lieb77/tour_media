@@ -1,0 +1,7 @@
+tour_media.tour_media:
+  path: 'admin/tour/media'
+  defaults:
+    _title: 'Tour Media Import'
+    _form: 'Drupal\tour_media\Form\TourMediaForm'
+  requirements:
+    _permission: 'administer tours'
